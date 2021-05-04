@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">Chapter4_ex9</string>
+    <string name="btn_rote">회전하기</string>
 </resources>
